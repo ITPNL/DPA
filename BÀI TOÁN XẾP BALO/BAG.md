@@ -17,7 +17,7 @@ int main(){
 // xét từng khoảng trọng lượng từ 1 -> s và xem xét đồ vật thứ i có thỏa mãn để đưa vào túi hay không
 // f[i][j] là với j là trọng lượng túi đang xét và i là giá trị có thể nhận được khi quyết ddingj cho vật vào túi hay không
 // f[i][j] sẽ có 2 khả năng : 
-    memset(dp, 0, sizeof(dp)); 
+    memset(f, 0, sizeof(f)); 
     for(int i = 1; i <= n; i++){ 
         for(int j = 1; j <= s; j++){ 
         // Khả năng 1 : Không cho vật vào túi vì túi khối lượng j chứa không đủ w[i]
