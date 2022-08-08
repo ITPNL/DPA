@@ -1,7 +1,10 @@
+ĐỀ BÀI : https://www.spoj.com/PTIT/problems/BCSINH/
+
 I. Xâu nhị phân có độ dài n
 - Cấu hình đầu : n bit 0
 - Cấu hình cuối : n bit 1
 - Bắt đầu từ bit cuối, nếu gặp bit cuối là bit 1 -> 0 và dich sang trái, cứ gặp 1 -> 0. Gặp số 0 -> 1 và những cái còn lại copy xuống (không đổi)
+
 1	0	1	1	1
 
 1	1	0	0	0
