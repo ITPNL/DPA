@@ -1,6 +1,6 @@
 ĐỀ BÀI : https://www.spoj.com/PTIT/problems/SSAM219J/
 
-Ý TƯỞNG : 
+Ý TƯỞNG : prefix sum + binery search
 
 CODE : 
 ```sh
