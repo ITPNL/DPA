@@ -62,5 +62,5 @@ int main(){
 Bonus : 
 + next_permuatation : tạo hoán vị từ cấu hình đầu 
 + prev_permutation : tạo hoán vị từ cấu hình cuối
-+ 
+
 // Khi dùng cho xâu, chỉ số như dùng cho vector
